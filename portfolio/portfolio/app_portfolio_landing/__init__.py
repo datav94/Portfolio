@@ -1,0 +1,1 @@
+default_app_config = 'app_portfolio_landing.apps.AppPortfolioLandingConfig'
